@@ -29,7 +29,6 @@ Please note that this document serves as an overview of the project at its curre
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE.txt` for more information.  
 
 See the [open issues](https://github.com/SynthpX/wAIfuS/issues) for a full list of proposed features (and known issues).
-This project is inspired by the works of ardha27 and sociallyineptweeb
