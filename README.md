@@ -15,6 +15,7 @@
 1. OpenAI
 2. LangChain
 3. Streamlit
+4. 
 
 ## About The Project
 Just AI Chatbot. This repo will serve as showcase/documentation the current project and how it will be. The source code might not be published here.
@@ -22,7 +23,10 @@ Just AI Chatbot. This repo will serve as showcase/documentation the current proj
 ## Thanks to
 Throughout the development of this project, various ideas, plugins, and code snippets may be sourced from external contributors. Proper credits and acknowledgments will be given to individuals or organizations whose contributions have been utilized.  
 
-Please note that this document serves as an overview of the project at its current stage, and further updates and modifications may be made as the development progresses.
+## Progress
+
+20.04.2023
+
 
 ## Contact
 
@@ -34,4 +38,8 @@ email(manba) mankacab@gmail.com
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.  
 
-See the [open issues](https://github.com/SynthpX/wAIfuS/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/SynthpX/wAIfuS/issues) for a full list of proposed features (and known issues).  
+  
+    
+      
+Please note that this document serves as an overview of the project at its current stage, and further updates and modifications may be made as the development progresses.
