@@ -8,7 +8,7 @@
   </p>
 </div>
 
-![alt text]()
+![alt text](https://github.com/SynthpX/NovelWaifu/blob/main/Design/architechture.png)
 
 ## Built With
 
