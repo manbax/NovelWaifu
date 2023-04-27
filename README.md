@@ -13,11 +13,8 @@
 ## Built With
 
 1. OpenAI
-2. Voicevox API
-3. Silero TTS 
-4. [Faster Whisper](https://github.com/guillaumekln/faster-whisper)
-5. [Text Classification](https://huggingface.co/j-hartmann/emotion-english-distilroberta-base) (Used on Emotion Recognition)
-6. [Voicevox Plugin]()
+2. LangChain
+3. Streamlit
 
 ## About The Project
 Just AI Chatbot. This repo will serve as showcase/documentation the current project and how it will be. The source code will not be published here.
