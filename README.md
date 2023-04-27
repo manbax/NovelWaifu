@@ -25,8 +25,17 @@ Throughout the development of this project, various ideas, plugins, and code sni
 
 ## Progress
 
-20.04.2023
-
+20.04 2023
+  - Create Novel Style UI with Streamlit, the design idea come from [renpy](https://www.renpy.org/).
+  - Asset for Images from [Zeil Learnings](https://zeillearnings.itch.io/visual-novel-renpy-tutorial)
+  - The asset used will be temporarely for the development purpose. This will not be used on end product.
+![alt text](https://github.com/SynthpX/NovelWaifu/blob/main/Progress/NoveUI.png)
+28.04 2023
+  - Connect UI with Backend (Langchain)
+  - Add Emotion Detection
+  - Conversational Memory (Langchain)
+  - Add 2 Tabs (Change Images for Asset and Settings for ENV file).
+![alt text](https://github.com/SynthpX/NovelWaifu/blob/main/Progress/Implement1.png)
 
 ## Contact
 
