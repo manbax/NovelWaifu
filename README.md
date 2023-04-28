@@ -19,7 +19,7 @@
 5. 
 
 ## About The Project
-Just AI Chatbot. This repo will serve as showcase/documentation the current project and how it will be. The source code might not be published here.
+Just AI Chatbot. This repo will serve as showcase/documentation the current project and how it will be. The source code will be published here, once its dosent look like a mess.
 
 ## Thanks to
 Throughout the development of this project, various ideas, plugins, and code snippets may be sourced from external contributors. Proper credits and acknowledgments will be given to individuals or organizations whose contributions have been utilized.  
