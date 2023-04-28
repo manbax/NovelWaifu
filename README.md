@@ -12,10 +12,11 @@
 
 ## Built With
 
-1. OpenAI
-2. LangChain
-3. Streamlit
-4. 
+1. OpenAI API
+2. Backend LangChain
+3. UI with Streamlit
+4. TTS by Voicevox 
+5. 
 
 ## About The Project
 Just AI Chatbot. This repo will serve as showcase/documentation the current project and how it will be. The source code might not be published here.
@@ -27,19 +28,34 @@ Throughout the development of this project, various ideas, plugins, and code sni
 
 ### 20.04 2023
   - Create Novel Style UI with Streamlit, the design idea come from [renpy](https://www.renpy.org/).
-  - Asset for Images from [Zeil Learnings](https://zeillearnings.itch.io/visual-novel-renpy-tutorial)
+  - Asset for Images from [Zeil Learnings](https://zeillearnings.itch.io/visual-novel-renpy-tutorial).
   - The asset used will be temporarely for the development purpose. This will not be used on end product.
 ![alt text](https://github.com/SynthpX/NovelWaifu/blob/main/Progress/NoveUI.png)
-### 28.04 2023  
+### 27.04 2023  
   - Connect UI with Backend (Langchain)
-  - Add Emotion Detection
-  - Conversational Memory (Langchain)
+  - Add Emotion Detection.
+  - Conversational Memory (Langchain).
   - Add 2 Tabs (Change Images for Asset and Settings for ENV file).
 ![alt text](https://github.com/SynthpX/NovelWaifu/blob/main/Progress/Implement1.png)
+### 28.04 2023  
+  - TTS Working (Voicevox).
+  - Emotion Detection connect to UI.
+  - Memory for understanding context tested and refactored (tested for 10+ message requests).
+  - I have asked several people to create a character for various responses, once its available connect to the actual UI will be easy.
+![alt text](https://github.com/SynthpX/NovelWaifu/blob/main/Progress/Implement2.png)
+### 29.04 2023 (Todo)
+
+
+## Todo
+  - Breathing animation on the character.
+  - Animated text.
+  - Multiple Language support.
+  - Customizable TTS (settings update)
+  - 
 
 ## Contact
 
-discord Arline#6822 
+discord Arline#6822  (preferred)
 email(manba) mankacab@gmail.com
 
 
