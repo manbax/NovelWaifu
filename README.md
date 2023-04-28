@@ -51,7 +51,10 @@ Throughout the development of this project, various ideas, plugins, and code sni
   - Animated text.
   - Multiple Language support.
   - Customizable TTS (settings update)
-  - 
+  - Implement Translator.
+  - Create UI to Create Character.
+  - File to import and export character (.json maybe)
+  
 
 ## Contact
 
