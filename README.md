@@ -38,7 +38,7 @@ Throughout the development of this project, various ideas, plugins, and code sni
   - Add 2 Tabs (Change Images for Asset and Settings for ENV file).
 ![alt text](https://github.com/SynthpX/NovelWaifu/blob/main/Progress/Implement1.png)
 ### 28.04 2023  
-  - TTS Working (Voicevox).
+  - TTS Working (Voicevox) | This wont require to run voicevox on local. Thanks to [Sharrnah](https://github.com/Sharrnah) for the Voicevox plugin.
   - Emotion Detection connect to UI.
   - Memory for understanding context tested and refactored (tested for 10+ message requests).
   - I have asked several people to create a character for various responses, once its available connect to the actual UI will be easy.
